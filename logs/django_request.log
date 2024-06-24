@@ -1,0 +1,7 @@
+2024-06-24 13:04:17,215 [WARNING] django.request: Not Found: /
+2024-06-24 13:04:17,231 [WARNING] django.request: Not Found: /
+2024-06-24 13:05:06,766 [WARNING] django.request: Not Found: /favicon.ico
+2024-06-24 13:09:45,468 [WARNING] django.request: Not Found: /
+2024-06-24 13:12:14,634 [WARNING] django.request: Not Found: /
+2024-06-24 13:15:57,807 [WARNING] django.request: Not Found: /
+2024-06-24 13:17:58,571 [WARNING] django.request: Not Found: /sign/
